@@ -1,11 +1,5 @@
 /**
- * ============================================================
- * PROJECT 03 - SISTEM INFORMASI PENILAIAN SISWA
- * File        : grade.ts
- * Lokasi file : utils/types/grade.ts
- * Fungsi      : Menangani perhitungan nilai akhir dan konversi
- *               nilai akhir menjadi Grade A-E.
- *
+ 
  * Rumus nilai akhir:
  *
  * Nilai Akhir =
