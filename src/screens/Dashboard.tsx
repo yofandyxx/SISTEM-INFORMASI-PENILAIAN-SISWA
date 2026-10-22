@@ -1,12 +1,5 @@
 /**
- * ============================================================
- * PROJECT 03 - SISTEM INFORMASI PENILAIAN SISWA
- * File        : Dashboard.tsx
- * Lokasi file : src/screens/Dashboard.tsx
- * Fungsi      : Menampilkan ringkasan dan informasi akademik
- *               berdasarkan data yang tersimpan pada SQLite.
- * Dibuat oleh : Amrizal,S.Kom, M.Kom
- * 
+ 
  * Informasi yang ditampilkan:
  * 1. Jumlah siswa.
  * 2. Jumlah mata pelajaran.
