@@ -1,11 +1,5 @@
 /**
- * ============================================================
- * PROJECT 03 - SISTEM INFORMASI PENILAIAN SISWA
- * File        : index.ts
- * Lokasi file : src/types/index.ts
- * Fungsi      : Mendefinisikan struktur dan tipe data yang
- *               digunakan pada seluruh aplikasi.
- * Dibuat oleh : Amrizal,S.Kom, M.Kom
+ 
  * 
  * Type yang tersedia:
  * 1. Student -> Struktur data siswa.
