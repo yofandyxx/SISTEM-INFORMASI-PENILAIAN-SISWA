@@ -1,15 +1,5 @@
 /**
- * ============================================================
- * PROJECT 03 - SISTEM INFORMASI PENILAIAN SISWA
- * File        : db.ts
- * Lokasi file : src/database/db.ts
- * Fungsi      : Mengelola database SQLite lokal, membuat tabel
- *               siswa, mata pelajaran, dan nilai, mengatur
- *               relasi antar tabel, serta menyediakan data awal
- *               untuk pengujian aplikasi.
- * Dibuat oleh : Amrizal, S.Kom., M.Kom.
- * ============================================================
- *
+ 
  * Fitur utama:
  *
  * 1. Membuka atau membuat database student_assessment.db.
