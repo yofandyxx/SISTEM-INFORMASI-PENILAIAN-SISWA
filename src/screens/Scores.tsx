@@ -1,11 +1,5 @@
 /**
- * ============================================================
- * PROJECT 03 - SISTEM INFORMASI PENILAIAN SISWA
- * File        : Scores.tsx
- * Lokasi file : src/screens/Scores.tsx
- * Fungsi      : Mengelola data nilai siswa.
- * Dibuat oleh : Amrizal,S.Kom, M.Kom
- * 
+ 
  * Fitur utama:
  * 1. Menampilkan seluruh data nilai.
  * 2. Menghubungkan siswa dan mata pelajaran melalui Foreign Key.
