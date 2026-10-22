@@ -1,11 +1,5 @@
 /**
- * ============================================================
- * PROJECT 03 - SISTEM INFORMASI PENILAIAN SISWA
- * File        : Recap.tsx
- * Lokasi file : src/screens/Recap.tsx
- * Fungsi      : Menampilkan rekap dan analitik nilai siswa.
- * Dibuat oleh : Amrizal,S.Kom, M.Kom
- * 
+ 
  * Informasi yang ditampilkan:
  * 1. Jumlah seluruh siswa.
  * 2. Rata-rata seluruh nilai.
