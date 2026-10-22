@@ -1,11 +1,5 @@
 /**
- * ============================================================
- * PROJECT 03 - SISTEM INFORMASI PENILAIAN SISWA
- * File        : Masters.tsx
- * Lokasi file : src/screens/Masters.tsx
- * Fungsi      : Mengelola master data Siswa dan Mata Pelajaran.
- * Dibuat oleh : Amrizal,S.Kom, M.Kom
- * 
+
  * Fitur utama:
  * 1. Menampilkan data siswa.
  * 2. Mencari siswa berdasarkan nama atau NIS.
