@@ -1,14 +1,4 @@
-/**
- * ============================================================
- * PROJECT 03 - SISTEM INFORMASI PENILAIAN SISWA
- * File        : UI.tsx
- * Lokasi file : src/components/UI.tsx
- * Fungsi      : Menyediakan komponen antarmuka (UI) reusable
- *               untuk menjaga konsistensi tampilan pada halaman
- *               Dashboard, Siswa, Mata Pelajaran, Nilai, dan Rekap.
- * Dibuat oleh : Amrizal, S.Kom., M.Kom.
- * ============================================================
- *
+
  * Fitur utama:
  *
  * 1. Menyediakan palet warna terpusat melalui object C.
